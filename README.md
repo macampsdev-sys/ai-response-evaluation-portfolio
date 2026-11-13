@@ -14,7 +14,7 @@ My approach combines analytical thinking, attention to detail, structured evalua
 
 This repository contains demonstration projects focused on evaluating AI-generated responses through structured guidelines, scoring rubrics, annotated examples, and quality reports.
 
-The examples are synthetic and designed for portfolio demonstration purposes.
+All examples are synthetic and designed for portfolio demonstration purposes.
 
 ## Evaluation Areas
 
@@ -46,7 +46,7 @@ The examples are synthetic and designed for portfolio demonstration purposes.
 
 ## Evaluation Methodology
 
-The portfolio uses structured evaluation criteria and scoring guidelines to ensure consistent and explainable assessments.
+The portfolio uses structured evaluation criteria and scoring guidelines to support consistent and explainable assessments.
 
 Each sample evaluation includes:
 - Input prompt.
@@ -88,21 +88,27 @@ ai-response-evaluation-portfolio/
 
 ## Portfolio Deliverables
 
-| Document | Purpose |
+| Document | Description |
 |---|---|
-| Evaluation Guidelines | Evaluation process and quality criteria |
-| Scoring Rubric | Structured scoring methodology |
-| Sample Dataset | Synthetic examples for evaluation |
-| Sample Evaluations | Annotated AI response assessments |
-| Quality Summary Report | Consolidated findings and recommendations |
+| [Evaluation Guidelines](guidelines/evaluation-guidelines.md) | Evaluation process and quality criteria |
+| [Scoring Rubric](rubric/scoring-rubric.md) | Structured scoring methodology |
+| [Sample Dataset](datasets/sample-evaluations.csv) | Synthetic examples for annotation and classification |
+| [Sample Evaluations](evaluations/sample-evaluations.md) | Annotated AI response assessments |
+| [Quality Summary Report](reports/quality-summary-report.md) | Consolidated findings and recommendations |
 
 ## Project Status
 
-**Portfolio structure:** Defined.
+**Portfolio structure:** Completed.
 
-**Evaluation framework:** Under development.
+**Evaluation framework:** Documented.
 
-**Sample evaluations:** Planned.
+**Scoring rubric:** Completed.
+
+**Sample evaluations:** Documented.
+
+**Annotation dataset:** Created.
+
+**Quality summary report:** Completed.
 
 This repository demonstrates analytical methodologies and structured approaches to AI response evaluation. It does not represent employment history or claim participation in external AI training projects.
 
