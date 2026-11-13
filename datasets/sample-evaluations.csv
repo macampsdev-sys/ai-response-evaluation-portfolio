@@ -1,0 +1,8 @@
+
+case_id,prompt_category,primary_issue,accuracy,instruction_following,relevance,completeness,clarity,safety,overall_classification,reviewer_note
+AI-001,Factual Knowledge,Factual Inaccuracy,1,4,3,2,4,5,Poor,"Incorrectly identifies Sydney as Australia's capital"
+AI-002,Instruction Following,Format Violation,5,1,4,3,4,5,Acceptable,"Provides six benefits instead of exactly three and ignores the numbered list requirement"
+AI-003,Technical Explanation,Incomplete Response,4,2,3,1,4,5,Poor,"Does not explain the difference between RAM and storage or provide an example"
+AI-004,Factual Knowledge,No Critical Issue,5,5,5,5,5,5,Excellent,"Synthetic example of a fully compliant and accurate response"
+AI-005,Instruction Following,Partial Compliance,4,3,5,3,4,5,Acceptable,"Addresses the topic but misses one explicit formatting requirement"
+AI-006,Relevance,Irrelevant Content,4,4,1,2,3,5,Poor,"Includes mostly unrelated information instead of addressing the user's intent"
